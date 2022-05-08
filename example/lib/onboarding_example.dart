@@ -1,5 +1,4 @@
 import 'package:concentric_transition/concentric_transition.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class PageData {
